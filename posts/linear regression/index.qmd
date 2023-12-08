@@ -34,16 +34,16 @@ summary(airquality)
 str(airquality)
 
 # We see there are some NA values, lets print information about the missing values so we can replacement them
-print("Missing values before replacement:")
-print(colSums(is.na(airquality)))
+Missing_Values_before_Replacement <- (colSums(is.na(airquality)))
+print(Missing_Values_before_Replacement)
 
 # Now that we have seen all the NA response, we will replace them with the mean for each variable
 airquality <- airquality %>%
   mutate_all(~ ifelse(is.na(.), mean(., na.rm = TRUE), .))
 
 # Check observations for NA responses after our replacement with the mean
-print("Missing values after replacement:")
-print(colSums(is.na(airquality)))
+Missing_values_after_replacement <- (colSums(is.na(airquality)))
+print(Missing_values_after_replacement)
 
 # Set a moderate seed for reproducibility
 set.seed(123)

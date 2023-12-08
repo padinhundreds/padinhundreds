@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "about me"
+  navbar:
+    background: "midnightblue"
+    right:
+      - "email: smp@unt.edu       phone: (777) 888-9999 "
+    left:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+      light: spacelab
+      dark: vapor
+
+editor: visual
+

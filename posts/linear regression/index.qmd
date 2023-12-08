@@ -1,0 +1,94 @@
+---
+title: "Linear Regression"
+author: "Steven"
+date: "2023-12-06"
+categories: [data, analysis]
+image: image.jpg
+---
+
+A Linear Regression Exercise & Visualization
+
+### Hello Class, Professor, and TA. Below is a quick exercise using code chunks in R. We will be completing a linear Regression using the "airquality" Dataset preloaded in R & R Studio
+
+```{r}
+# Install and Load Necessary Packages and Libraries
+
+# Install and load these required packages be removing the # sign. 
+
+#install.packages("caret")
+library(caret)
+#install.packages("tidyverse")
+library(tidyverse)
+```
+
+## **Basic Statistical Analysis Steps**
+
+```{r}
+# This is the syntax we use to load the "airquality" dataset
+data(airquality)
+
+# Call a summary of the data
+summary(airquality)
+
+# Check the structure of the data
+str(airquality)
+
+# We see there are some NA values, lets print information about the missing values so we can replacement them
+print("Missing values before replacement:")
+print(colSums(is.na(airquality)))
+
+# Now that we have seen all the NA response, we will replace them with the mean for each variable
+airquality <- airquality %>%
+  mutate_all(~ ifelse(is.na(.), mean(., na.rm = TRUE), .))
+
+# Check observations for NA responses after our replacement with the mean
+print("Missing values after replacement:")
+print(colSums(is.na(airquality)))
+
+# Set a moderate seed for reproducibility
+set.seed(123)
+
+# Now we will split the data into a training and testing datasets
+split_index <- createDataPartition(airquality$Temp, p = 0.7, list = FALSE)
+train_data <- airquality[split_index, ]
+test_data <- airquality[-split_index, ]
+```
+
+## **Simple Linear Regression Example**
+
+```{r}
+# This is how we create a simple linear regression model using the training data
+lm_model <- lm(Temp ~ Ozone, data = train_data)
+
+# This syntax allows us to make predictions based on the training data
+train_predictions <- predict(lm_model, newdata = train_data)
+
+# Calculate Mean Square Prediction Error (MSPE) for the training model to gauge how well it predicts
+mspe_train <- mean((train_data$Temp - train_predictions)^2)
+print(paste("MSPE for Training Model:", mspe_train))
+```
+
+## **Predictions on Testing Set**
+
+```{r}
+# Predict the target variable on the testing set
+test_predictions <- predict(lm_model, newdata = test_data)
+
+# Calculate MSPE for the test model
+mspe_test <- mean((test_data$Temp - test_predictions)^2)
+print(paste("MSPE for Test Model:", mspe_test))
+```
+
+## **Visualization**
+
+```{r}
+# As an extra, here is a box plot of Temperature by Month
+with(airquality, boxplot(Temp ~ Month, col = c(1,2,3,4,5)))
+
+```
+
+```{r}
+# Lastly, here is a Scatterplot of Ozone vs. Temperature
+with(airquality, plot(Ozone ~ Temp))
+
+```

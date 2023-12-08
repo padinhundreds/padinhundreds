@@ -1,0 +1,13 @@
+---
+title: "Resume"
+author: "Steven"
+date: "2023-12-06"
+categories: [stem, career]
+image: image.jpg
+---
+
+A redacted version of my resume!
+
+![](image.jpg)
+
+Feel free to drop a message on my GitHub account!

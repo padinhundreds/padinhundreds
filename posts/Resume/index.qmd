@@ -8,6 +8,6 @@ image: image.jpg
 
 A redacted version of my resume!
 
-![](image.jpg)
+![](images/image-01.jpg){fig-align="left"}
 
 Feel free to drop a message on my GitHub account!

@@ -39,7 +39,7 @@
     "href": "posts/linear regression/index.html#visualization",
     "title": "Linear Regression",
     "section": "Visualization",
-    "text": "Visualization\n\n# As an extra, here is a box plot of Temperature by Month\nwith(airquality, boxplot(Temp ~ Month, col = c(1,2,3,4,5)))\n\n\n\n\n\n# Lastly, here is a Scatterplot of Ozone vs. Temperature\nwith(airquality, plot(Ozone ~ Temp))"
+    "text": "Visualization\n\n# As an extra, here is a box plot of Temperature by Month\nwith(airquality, boxplot(Temp ~ Month, col = c(1,2,3,4,5)))\n\n\n\n\n\n\n\n\n\n# Lastly, here is a Scatterplot of Ozone vs. Temperature\nwith(airquality, plot(Ozone ~ Temp))"
   },
   {
     "objectID": "posts/Resume/index.html",
@@ -51,8 +51,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "steven",
+    "title": "Steven M. Padin",
     "section": "",
-    "text": "Hello all, this is a project I completed for my second Master’s degree. I enjoy soccer, machine learning / artificial intelligence, economics and food.\nEver since Chuck Lindsey from University at Buffalo told me I should incorporate a specialization to my burgeoning soft skills, learning how to interact with data in a meaningful way has been my passion.\nI hope you enjoyed reading this insight to my journey - please use my contact information in the top right-hand corner!"
+    "text": "Hello all, this is a project I completed for my second Master’s degree. I enjoy soccer, machine learning / artificial intelligence, economics and food.\nEver since Chuck Lindsey from University at Buffalo told me I should incorporate a specialization to my burgeoning soft skills, learning how to interact with data in a meaningful way has been my passion.\nI hope you enjoyed reading this insight to my journey - please use my contact information in the top right-hand corner!\nRole Models: FOIA Man, Ronaldinhno, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs\nBooks: The Changing World Order: Why Nations Succeed or Fail by Ray Dallio, Steve Jobs by Walter Isaacson, Harry Potter Series,\nMedia: All-in Podcast, Kurzgesagtz,"
   }
 ]

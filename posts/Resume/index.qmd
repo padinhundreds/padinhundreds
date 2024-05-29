@@ -2,12 +2,22 @@
 title: "Resume"
 author: "Steven"
 date: "2023-12-06"
-categories: [stem, career]
+categories: [mba, stem, career]
 image: image.jpg
 ---
 
-A redacted version of my resume!
+Below is a redacted version of my resumé, yawn.
 
-![](images/image-01.jpg){fig-align="left"}
+Some interesting facts about me you might not know are;
+
+1.  I started working when I was 6 - I got paid about \$2/day and a Snapple (lemon tea)
+
+2.  I have lived in 5 states
+
+3.  Both sets of my grandparents are from the Caribbean
+
+4.  I am an only child.
+
+![](images/image-02.jpg){fig-align="left"}
 
 Feel free to drop a message on my GitHub account!

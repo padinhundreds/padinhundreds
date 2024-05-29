@@ -12,10 +12,16 @@ about:
       href: https://github.com
     - icon: instagram
       text: instagram
-      href: instagram.com/padinhundreds
+      href: https://instagram.com/padinhundreds
 ---
 
-Hello all, this is a project I completed for my second Master's degree. I enjoy soccer, machine learning / artificial intelligence, economics and food.
+Hello all, this website has grown since the project I completed for YAMD (Yet Another Master's Degree) - the joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup language."
+
+Anyway, I enjoy three things I am passionate to the point of writing about them are;
+
+1.  Soccer
+2.  technology,
+3.  economics and food. This Blog will consist mainly of the first three.
 
 Ever since Chuck Lindsey from University at Buffalo told me I should incorporate a specialization to my burgeoning soft skills, learning how to interact with data in a meaningful way has been my passion.
 

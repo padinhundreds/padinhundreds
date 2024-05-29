@@ -15,19 +15,29 @@ about:
       href: https://instagram.com/padinhundreds
 ---
 
-Hello all, this website has grown since the project I completed for YAMD (Yet Another Master's Degree) - the joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup language."
+*From: S. M. Padin \<smpadin1\@gmail.com\>*
 
-Anyway, I enjoy three things I am passionate to the point of writing about them are;
+*To: Anyone & Everyone \<all\@earth.org\>*
+
+*Subject: Who is Steven M. Padin?*
+
+Hello all,
+
+This website has grown since inception as just a capstone project completed for YAMD (Yet Another Master's Degree) - the joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
+
+Anyway, three interests I am passionate to the point of writing are;
 
 1.  Soccer
-2.  technology,
-3.  economics and food. This Blog will consist mainly of the first three.
+2.  Technology
+3.  Economics
 
-Ever since Chuck Lindsey from University at Buffalo told me I should incorporate a specialization to my burgeoning soft skills, learning how to interact with data in a meaningful way has been my passion.
+This Blog will consist mainly of the first three.
+
+Ever since Professor Chuck Lindsey, PhD from UBuff told me I should incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been my passion.
 
 I hope you enjoyed reading this insight to my journey - please use my contact information in the top right-hand corner!
 
-Role Models: FOIA Man, Ronaldinhno, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs
+Role Models: FOIA Man, Ronaldinho, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs
 
 Books: The Changing World Order: Why Nations Succeed or Fail by Ray Dallio, Steve Jobs by Walter Isaacson, Harry Potter Series,
 

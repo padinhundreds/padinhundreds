@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "my posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\nmba\n\n\nstem\n\n\ncareer\n\n\n\n\n\n\n\nSteven\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Regression\n\n\n\ndata\n\n\nanalysis\n\n\n\n\n\n\n\nSteven\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNvidia Pecha Kucha\n\n\n\nnvidia\n\n\ntechnology\n\n\neconomics\n\n\n\n\n\n\n\nSteven\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\nmba\n\n\nstem\n\n\ncareer\n\n\n\n\n\n\n\nSteven\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Regression\n\n\n\ndata\n\n\nanalysis\n\n\n\n\n\n\n\nSteven\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Nvidia Pecha Kucha/index.html",
+    "href": "posts/Nvidia Pecha Kucha/index.html",
+    "title": "Nvidia Pecha Kucha",
+    "section": "",
+    "text": "Going to insert Nvidia project here, file too large… needs to be under 100MB for GitHub repository websites…"
+  },
+  {
+    "objectID": "posts/Resume/index.html",
+    "href": "posts/Resume/index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Below is a redacted version of my resumé, yawn.\nSome interesting facts about me are;\n\nI started working when I was 6 - I got paid about $2/day and a Snapple (lemon tea)\nI have lived in 5 States\nBoth sets of my grandparents are from the Caribbean\nI am an only child.\n\n\n\n\n\n\nRole Models: FOIA Man, Ronaldinho, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs\nBooks: The Changing World Order: Why Nations Succeed or Fail by Ray Dallio, Steve Jobs by Walter Isaacson, Harry Potter Series,\nMedia: All-in Podcast, Kurzgesagtz,\nIf any of these experiences, people, or media had you curious, feel free to email me, drop a message on my GitHub account, or follow me on IG where I will rant/rave about any of the above & more!"
   },
   {
     "objectID": "posts/linear regression/index.html",
@@ -40,13 +54,6 @@
     "title": "Linear Regression",
     "section": "Visualization",
     "text": "Visualization\n\n# As an extra, here is a box plot of Temperature by Month\nwith(airquality, boxplot(Temp ~ Month, col = c(1,2,3,4,5)))\n\n\n\n\n\n\n\n\n\n# Lastly, here is a Scatterplot of Ozone vs. Temperature\nwith(airquality, plot(Ozone ~ Temp))"
-  },
-  {
-    "objectID": "posts/Resume/index.html",
-    "href": "posts/Resume/index.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Below is a redacted version of my resumé, yawn.\nSome interesting facts about me are;\n\nI started working when I was 6 - I got paid about $2/day and a Snapple (lemon tea)\nI have lived in 5 States\nBoth sets of my grandparents are from the Caribbean\nI am an only child.\n\n\n\n\n\n\nRole Models: FOIA Man, Ronaldinho, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs\nBooks: The Changing World Order: Why Nations Succeed or Fail by Ray Dallio, Steve Jobs by Walter Isaacson, Harry Potter Series,\nMedia: All-in Podcast, Kurzgesagtz,\nIf any of these experiences, people, or media had you curious, feel free to email me, drop a message on my GitHub account, or follow me on IG where I will rant/rave about any of the above & more!"
   },
   {
     "objectID": "index.html",

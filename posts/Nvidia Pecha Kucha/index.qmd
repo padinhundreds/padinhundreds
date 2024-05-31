@@ -1,0 +1,9 @@
+---
+title: "Nvidia Pecha Kucha"
+author: "Steven"
+date: "2023-10-10"
+categories: [nvidia, technology, economics]
+image: image.jpg
+---
+
+Going to insert Nvidia project here, file too large... needs to be under 100MB for GitHub repository websites...

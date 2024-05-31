@@ -6,7 +6,7 @@ website:
   navbar:
     background: "midnightblue"
     right:
-      - "send an email: smpadin1@gmail.com"
+      - "email: smpadin1@gmail.com"
     left:
       - about.qmd
       - icon: Linkedin

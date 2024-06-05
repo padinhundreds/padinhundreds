@@ -27,11 +27,14 @@ This website has grown since inception as a capstone project completed for YAMD 
 
 Anyway, three interests I am passionate to the point of writing are:
 
-1.  Soccer - player/team statistics & transfer analysis
-2.  Technology - development of machine learning & adjacent sectors
-3.  Economics - quantitative analysis and news
+1.  Soccer
+    -   Player/Team statistics & transfer analysis
+2.  Technology
+    -   Development of machine learning & adjacent sectors
+3.  Economics
+    -   Quantitative analysis and microeconomic news
 
-This Blog will consist of these topics to varying degrees
+This Blog will consist of these topics, to varying degrees.
 
 Ever since Dr. Chuck Lindsey from UB told me to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been my passion.
 

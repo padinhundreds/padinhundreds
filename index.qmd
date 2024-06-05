@@ -5,13 +5,13 @@ about:
   template: trestles
   links:
     - icon: linkedin
-      text: I'm Professional
+      text: Professional
       href: https://linkedin.com/in/smp100
     - icon: github
-      text: I'm Nerdy
+      text: Nerdy
       href: https://github.com
     - icon: instagram
-      text: I'm Fun
+      text: Fun
       href: https://instagram.com/padinhundreds
 ---
 
@@ -25,7 +25,7 @@ Hello All,
 
 This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree) - the joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
 
-Anyway, three interests I am passionate to the point of writing about are;
+Anyway, three interests I am passionate to the point of writing are:
 
 1.  Soccer - player/team statistics & transfer analysis
 2.  Technology - development of machine learning & adjacent sectors

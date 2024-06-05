@@ -18,7 +18,7 @@ Some interesting facts about me are;
 
 4.  I am an only child.
 
-![](images/image-02.jpg){fig-align="left"}
+![](image.jpg){fig-align="left"}
 
 These are some of my Role Models:
 

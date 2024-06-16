@@ -6,7 +6,11 @@ categories: [mba, stem, career]
 image: image.jpg
 ---
 
-Below is a redacted version of my resume. You can get a better understanding of my career using the *Professional* button after clicking my name, top left. Here are some facts about me;
+Below is a redacted version of my resume. You can get a better understanding of my career using the *LinkedIn* button, top right.
+
+![](image.jpg){fig-align="left"}
+
+Here are more facts you might not know about me!
 
 1.  I started working when I was 6 years old - I got paid \~\$2/day and a Snapple (lemon tea).
 
@@ -15,8 +19,6 @@ Below is a redacted version of my resume. You can get a better understanding of 
 3.  I have lived in 5 States in the United States.
 
 4.  I am an only child.
-
-![](image.jpg){fig-align="left"}
 
 ## BONUS
 
@@ -64,4 +66,4 @@ Ground News
 
 Flipboard
 
-If any of this has you curious, feel free to send an email, drop a message on GitHub , or follow me on IG where I will rant/rave about any of the above!
+If any of this has you curious, feel free to send an email, connect on Linkedin , or follow me on IG where I will rant/rave about any of the above!

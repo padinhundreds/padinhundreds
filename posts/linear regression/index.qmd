@@ -6,9 +6,9 @@ categories: [data, analysis]
 image: image.jpg
 ---
 
-A Linear Regression Exercise & Visualization
+#### A Linear Regression Exercise & Visualization
 
-### Hello Class, Professor, and TA. Below is a quick exercise using code chunks in R. We will be completing a linear Regression using the "airquality" Dataset preloaded in R & R Studio
+##### Hello All. Below is a quick exercise using code chunks in R. We will be completing a Linear Regression Model using the "airquality" dataset pre-loaded in R & R Studio
 
 ```{r}
 # Install and Load Necessary Packages and Libraries

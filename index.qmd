@@ -28,11 +28,16 @@ This website has grown since inception as a capstone project completed for YAMD 
 Anyway, two interests I am passionate to the point of writing about are:
 
 1.  Soccer
-    -   Player/Team statistics
 
-    -   Transfer analysis
+-   Player/Team Statistics
+
+-   Transfer Analysis
+
 2.  Economics
-    -   My Portfolio & impacting headwind/tailwinds
+
+-   My Portfolio
+
+-   Strategy & Decision Making
 
 Ever since Prof. Chuck Lindsey from UB said to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been a passion. See how I combine technical skill with inherent passion to ascend socioeconomic barriers.
 

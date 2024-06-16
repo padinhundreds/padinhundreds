@@ -6,11 +6,9 @@ categories: [mba, stem, career]
 image: image.jpg
 ---
 
-Below is a redacted version of my resumé, yawn.
+Below is a redacted version of my resumé. You can get a better understanding of my career using the *Professional* button after clicking my name in the top left. Also, here are some facts about me;
 
-Some interesting facts about me are;
-
-1.  I started working when I was 6 - I got paid about \$2/day and a Snapple (lemon tea).
+1.  I started working when I was 6 years old - I got paid \~\$2/day and a Snapple (lemon tea).
 
 2.  Both sets of my grandparents are from the Caribbean.
 
@@ -20,16 +18,36 @@ Some interesting facts about me are;
 
 ![](image.jpg){fig-align="left"}
 
-**Here are some of my Role Models**:
+Here are some of my **Role Models**:
 
-FOIA Man, Ronaldinho, David (David & Goliath), Roaring Kitty, Son Goku, Jensen Huang, Steven P. Jobs
+[Steven P. Jobs](Steve-Jobs-Walter-Isaacson/dp/1451648537) [Jim Simons](DeepFuckingValue)
 
-**Along with a few Books I enjoyed reading:**
+[Ronaldinho (min. 2:30)](https://www.youtube.com/watch?v=Zmf5hT5tIVQ) [Jensen Huang](https://nvidianews.nvidia.com/bios/jensen-huang)
 
-The Changing World Order: Why Nations Succeed or Fail by Ray Dallio, Steve Jobs by Walter Isaacson, Harry Potter Series by J.K. Rowling, Deep Value: Why Activist Investors and Contrarians Battle for Control of Losing Corporations by Tobias Carlisle
+[DeepFuckingValue](https://www.reddit.com/r/GME/comments/1dbq6m7/the_crazies_stick_together_keith_gill/#lightbox) [FOIA Man](https://www.bloomberg.com/news/videos/2023-07-19/meet-the-man-who-sues-the-government-for-information)
 
-**And this is Media I consume in my free time:**
+[David (David vs. Goliath)](https://www.oxfordlearnersdictionaries.com/definition/american_english/david-and-goliath) [Son Goku](https://hero.fandom.com/wiki/Goku_(Dragon_Ball)?file=Kid+Goku.png)
 
-All-in Podcast, Kurzgesagtz, Brilliant, Ground News, Flipboard
+[Chamath Palihapitiya](https://substack.com/@chamath?utm_source=about-page)
 
-If any of these experiences, people, or media had you curious, feel free to email me, drop a message on my GitHub account, or follow me on IG where I will rant/rave about any of the above & more!
+Along with some **Books** I enjoyed reading:
+
+The Changing World Order: Why Nations Succeed or Fail by Ray Dallio
+
+Steve Jobs by Walter Isaacson
+
+Harry Potter Series by J.K. Rowling
+
+The Inheritance Cycle by Christopher Paolini
+
+Deep Value: Why Activist Investors and Contrarians Battle for Control of Losing Corporations by Tobias Carlisle
+
+And this is **Media** I consume in my **free time:**
+
+[All-In Podcast](https://www.youtube.com/@allin/videos) [Kurzgesagt - In a Nutshell](https://www.youtube.com/@kurzgesagt/videos)
+
+[Brilliant](https://brilliant.org/about/) Ground News
+
+Flipboard
+
+If any of this has you curious, feel free to email me, drop a message on GitHub account, or follow me on IG where I will rant/rave about any of the above!

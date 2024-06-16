@@ -13,6 +13,9 @@ about:
     - icon: instagram
       text: Fun
       href: https://instagram.com/padinhundreds
+    - icon: youtube
+      text: Videos
+      href: https://www.youtube.com/@padinhundreds
 ---
 
 *To: You All \<occupants\@earth.org\>*

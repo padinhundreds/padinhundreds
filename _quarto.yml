@@ -5,14 +5,16 @@ website:
   title: "Steven M. Padin"
   navbar:
     background: "maroon"
-    right:
-      - "email: smpadin1@gmail.com"
     left:
+      - "email: smpadin1@gmail.com"
+    right:
       - about.qmd
-      - icon: Linkedin
+      - icon: linkedin
         href: https://linkedin.com/in/smp100
       - icon: instagram
         href: https://instagram.com/padinhundreds
+      - icon: youtube
+        href: https://youtube.com/padinhundreds
 format:
   html:
     theme: 

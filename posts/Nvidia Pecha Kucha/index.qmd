@@ -2,8 +2,46 @@
 title: "Nvidia Pecha Kucha"
 author: "Steven"
 date: "2023-10-10"
-categories: [nvidia, technology, economics]
+categories: [portfolio, economics]
 image: image.jpg
 ---
 
-Going to insert Nvidia project here, file too large... needs to be under 100MB for GitHub repository websites...
+A Pecha Kucha is a presentation template that displays 20 pictures for 20 seconds each, resulting in a 6 minute and 40 second video. This Pecha Kucha I created was on Nvidia back in October 2023, when their stock price (pre-split) was around \$400 - now the price in pre-split terms is about \$1,300. Below is an outline of what I speak about in the above video.
+
+##### Image 1: Company Background 
+
+##### Image 2: CEO Background 
+
+##### Image 3: Business Overview 
+
+##### Image 4: Business Environment 
+
+##### Image 5: Porter 5 Forces 
+
+##### Image 6: Industry Opportunity & Threat 
+
+##### Image 7: Strengths Image 8: Weaknesses I
+
+##### mage 9: Recent Event (AMD) 
+
+##### Image 10: Recent Event Response 
+
+##### Image 11: Evaluation of Response 
+
+##### Image 12: Recent Event (PepsiCo) 
+
+##### Image 13: Recent Event Response 
+
+##### Image 14: Evaluation of Response 
+
+##### Image 15: Recent Events Summary 
+
+##### Image 16: Looking Towards Future 
+
+##### Image 17: 5 Year Horizon 
+
+##### Image 18: Is Nvidia in a "Blue Ocean" 
+
+##### Image 19: Smart Hubs; Stadiums, Airports, Warehouses, Cities etc. 
+
+##### Image 20: Conclusion

@@ -15,13 +15,13 @@ about:
       href: https://instagram.com/padinhundreds
 ---
 
-*To: You \<occupant\@earth.org\>*
+*To: You All \<occupants\@earth.org\>*
 
 *From: S. M. Padin \<smpadin1\@gmail.com\>*
 
 *Subject: Who is Steven M. Padin?*
 
-Hello!
+I am glad you're here.
 
 This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree). The joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
 
@@ -34,4 +34,8 @@ Anyway, two interests I am passionate to the point of writing about are:
 2.  Economics
     -   My Portfolio & impacting headwind/tailwinds
 
-Ever since Prof. Chuck Lindsey from UB said to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been a passion. See how I combine these technical skill with my inherent passion to ascend socioeconomic barriers.
+Ever since Prof. Chuck Lindsey from UB said to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been a passion. See how I combine technical skill with inherent passion to ascend socioeconomic barriers.
+
+Enjoy,
+
+Steven M. Padin

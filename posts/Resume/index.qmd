@@ -1,6 +1,6 @@
 ---
 title: "Resume+"
-author: "Steven"
+author: "SMP"
 date: "2024-06-16"
 categories: [mba, stem, career]
 image: image.jpg

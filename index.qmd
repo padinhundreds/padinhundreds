@@ -18,15 +18,15 @@ about:
       href: https://www.youtube.com/@padinhundreds
 ---
 
-*To: You All \<occupants\@earth.org\>*
+#### *To: You All \<occupants\@earth.org\>*
 
-*From: S. M. Padin \<smpadin1\@gmail.com\>*
+#### *From: S. M. Padin \<smpadin1\@gmail.com\>*
 
-*Subject: Who is Steven M. Padin?*
+#### *Subject: Who is Steven M. Padin?*
 
-I'm glad you made it here!
+Hello!
 
-This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree). The joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
+I'm glad you made it here. This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree). The joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
 
 Anyway, two interests I am passionate to the point of writing about are:
 

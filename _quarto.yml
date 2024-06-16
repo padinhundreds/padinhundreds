@@ -6,15 +6,16 @@ website:
   navbar:
     background: "maroon"
     left:
-      - "email: smpadin1@gmail.com"
-    right:
       - about.qmd
+      
+    right:
       - icon: linkedin
         href: https://linkedin.com/in/smp100
       - icon: instagram
         href: https://instagram.com/padinhundreds
       - icon: youtube
         href: https://youtube.com/padinhundreds
+      - "smpadin1@gmail.com"
 format:
   html:
     theme: 

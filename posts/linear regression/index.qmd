@@ -1,6 +1,6 @@
 ---
 title: "Linear Regression"
-author: "Steven"
+author: "SMP"
 date: "2023-12-06"
 categories: [data, analysis]
 image: image.jpg

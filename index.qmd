@@ -21,7 +21,7 @@ about:
 
 *Subject: Who is Steven M. Padin?*
 
-I am glad you're here.
+I'm glad you made it here!
 
 This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree). The joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
 
@@ -29,18 +29,16 @@ Anyway, two interests I am passionate to the point of writing about are:
 
 1.  Soccer
 
--   Player/Team Statistics
-
--   Transfer Analysis
+    -   Player/Team Analysis
+    -   Transfer Analysis
 
 2.  Economics
 
--   My Portfolio
-
--   Strategy & Decision Making
+    -   Strategy & Decision Making
+    -   My Portfolio
 
 Ever since Prof. Chuck Lindsey from UB said to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been a passion. See how I combine technical skill with inherent passion to ascend socioeconomic barriers.
 
-Enjoy,
+Be sure to check out my posts!
 
 Steven M. Padin

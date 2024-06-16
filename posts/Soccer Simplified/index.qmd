@@ -2,7 +2,7 @@
 title: "Soccer Simplified"
 author: "SMP"
 date: "2024-06-16"
-categories: [mba, stem, career]
+categories: [Soccer]
 image: image.jpg
 ---
 

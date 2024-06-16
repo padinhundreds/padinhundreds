@@ -15,27 +15,23 @@ about:
       href: https://instagram.com/padinhundreds
 ---
 
-*From: S. M. Padin \<smpadin1\@gmail.com\>*
+*To: You \<occupant\@earth.org\>*
 
-*To: Anyone & Everyone \<all\@earth.org\>*
+*From: S. M. Padin \<smpadin1\@gmail.com\>*
 
 *Subject: Who is Steven M. Padin?*
 
-Hello All,
+Hello!
 
-This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree) - the joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
+This website has grown since inception as a capstone project completed for YAMD (Yet Another Master's Degree). The joke here is that I coded this website using quatro.yml, where yml = YAML and stands for "Yet Another Markup Language."
 
-Anyway, three interests I am passionate to the point of writing are:
+Anyway, two interests I am passionate to the point of writing about are:
 
 1.  Soccer
-    -   Player/Team statistics & transfer analysis
-2.  Technology
-    -   Development of machine learning & adjacent sectors
-3.  Economics
-    -   Quantitative analysis and microeconomic news
+    -   Player/Team statistics
 
-This Blog will consist of these topics, to varying degrees.
+    -   Transfer analysis
+2.  Economics
+    -   My Portfolio & impacting headwind/tailwinds
 
-Ever since Dr. Chuck Lindsey from UB told me to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been my passion.
-
-I hope you enjoyed reading this insight to my journey - please use my contact information in the top right-hand corner!
+Ever since Prof. Chuck Lindsey from UB said to incorporate a specialization to my soft skills, learning how to interact with data in a meaningful way has been a passion. See how I combine these technical skill with my inherent passion to ascend socioeconomic barriers.

@@ -4,7 +4,7 @@ project:
 website:
   title: "Steven M. Padin"
   navbar:
-    background: "midnightblue"
+    background: "maroon"
     right:
       - "email: smpadin1@gmail.com"
     left:
@@ -16,8 +16,7 @@ website:
 format:
   html:
     theme: 
-      light: spacelab
-      dark: darkly
+      light: darkly
 
 editor: visual
 

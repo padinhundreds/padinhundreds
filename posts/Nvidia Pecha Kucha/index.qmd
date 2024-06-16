@@ -20,9 +20,11 @@ A Pecha Kucha is a presentation template that displays 20 pictures for 20 second
 
 ##### Image 6: Industry Opportunity & Threat 
 
-##### Image 7: Strengths Image 8: Weaknesses I
+##### Image 7: Strengths 
 
-##### mage 9: Recent Event (AMD) 
+##### Image 8: Weaknesses 
+
+##### Image 9: Recent Event (AMD) 
 
 ##### Image 10: Recent Event Response 
 
